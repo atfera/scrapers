@@ -2,5 +2,5 @@
 
 ## Instalation 
 
-[ ] `git clone` ou `git pull` le project
-[ ]  installation des dépences `composer install`
+1. `git clone` ou `git pull` le project
+2.  installation des dépences `composer install`
