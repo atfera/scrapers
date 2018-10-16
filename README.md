@@ -1,4 +1,4 @@
-# Scrappers pour les sites de revent de billet 
+# Scrappers pour les sites de revente de billets
 
 ## Instalation 
 
