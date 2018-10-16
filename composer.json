@@ -1,0 +1,13 @@
+{
+    "name": "ivanprunier/scrapers",
+    "description": "A convenient way to scrap different ticket reselling websites and get tickets to your favorites shows",
+    "type": "project",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Ivan Prunier",
+            "email": "ivan.prunier7@gmail.com"
+        }
+    ],
+    "require": {}
+}
